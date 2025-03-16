@@ -1,3 +1,1 @@
-"1
-:@!~  
-"+?"b65433q I am just playing around and practicing my code in R and Python.
+This repository is intended for personal use, containing a variety of coding notes and some of my old code. It focuses on different statistical methods and will be updated regularly for easy reference in the future.
